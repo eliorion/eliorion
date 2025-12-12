@@ -1,4 +1,4 @@
-# 👋 Hi, I Eliorion
+# 👋 Hi, I'm Eliorion
 
 I’m a software engineer moving with intention toward DevOps, Cloud Engineering, and DevSecOps. My background in embedded systems taught me precision, reliability, and a strong understanding of how complex architectures behave under constraints. Over time, this foundation naturally led me toward infrastructure, automation, and the design of secure, maintainable, and scalable environments.
 
